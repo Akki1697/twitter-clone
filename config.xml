@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
@@ -8,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>crdfm</name>
+    <name>Twit</name>
     <icon src="images/icon.png" gap:platform="android" gap:density="ldpi" width="57" height="57"/>
     <gap:splash src="images/splash.jpg" gap:platform="android" gap:density="ldpi" />
     <gap:platform name="ios" />
